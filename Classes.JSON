@@ -1,0 +1,25 @@
+[
+  {
+    "Code": "CS121",
+    "Summative": [
+      {
+        "Name": "Class Test",
+        "Weight": 15,
+        "Max": 15,
+        "Grade": 15
+      },
+      {
+        "Name": "Procedural Programming Coursework",
+        "Weight": 20,
+        "Max": 20,
+        "Grade": 19.4
+      },
+      {
+        "Name": "Object Orientated Programming Coursework",
+        "Weight": 20,
+        "Max": 20,
+        "Grade": 14.3
+      }
+    ]
+  }
+]

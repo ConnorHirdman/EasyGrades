@@ -1,24 +1,35 @@
 [
   {
     "Code": "CS121",
+    "Pass_Mark": 49,
     "Summative": [
       {
         "Name": "Class Test",
         "Weight": 15,
         "Max": 15,
-        "Grade": 15
+        "Grade": 15,
+        "Mark Received": "Y"
       },
       {
         "Name": "Procedural Programming Coursework",
         "Weight": 20,
         "Max": 20,
-        "Grade": 19.4
+        "Grade": 19.4,
+        "Mark Received": "Y"
       },
       {
         "Name": "Object Orientated Programming Coursework",
         "Weight": 20,
         "Max": 20,
-        "Grade": 14.3
+        "Grade": 14.3,
+        "Mark Received": "Y"
+      },
+      {
+        "Name": "Individual Project",
+        "Weight": 45,
+        "Max": 45,
+        "Grade": 0,
+        "Mark Received": "N"
       }
     ]
   }

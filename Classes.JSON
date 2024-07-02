@@ -1,6 +1,7 @@
 [
   {
     "Code": "CS121",
+    "Pass_Mark": 40,
     "Summative": [
       {
         "Name": "Class Test",
